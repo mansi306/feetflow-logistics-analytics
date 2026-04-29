@@ -247,6 +247,7 @@ Most logistics dashboard portfolios stop at the visuals. This project goes furth
 **[Mansi Patil]**  
 Data Analyst  
 📧 mp8551142@gmail.com 
+
 🔗 [LinkedIn](www.linkedin.com/in/mansipatil306)  
 
 
