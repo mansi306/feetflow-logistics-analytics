@@ -37,11 +37,11 @@ Logistics companies live and die by two metrics: **on-time delivery rate** and *
 
 | Logistics Dashboard | Drivers Overview |
 |---|---|
-| ![Logistics Dashboard](assets/dashboard_main.png) | ![Drivers Overview](assets/dashboard_drivers.png) |
+| ![Logistics Dashboard](screenshots/dashboard_main.png) | ![Drivers Overview](screenshots/dashboard_drivers.png) |
 
 | Hubs Overview | Vehicles Overview |
 |---|---|
-| ![Hubs Overview](assets/dashboard_hubs.png) | ![Vehicles Overview](assets/dashboard_vehicles.png) |
+| ![Hubs Overview](screenshots/dashboard_hubs.png) | ![Vehicles Overview](screenshots/dashboard_vehicles.png) |
 
 > Built in **Power BI** with 4 interactive pages, cross-page filtering by Year and Month, and custom brown/tan brand theme.
 
