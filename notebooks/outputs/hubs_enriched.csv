@@ -1,0 +1,7 @@
+hub_id,hub_name,hub_capacity,total_orders,delayed_orders,avg_csat,avg_proc_hrs,cancelled,delay_rate,cancel_rate,utilisation_pct
+1,Dallas Main Hub,250,7345,1549,4.17,1.9500176991150442,63,21.1,0.9,122.4
+2,Houston Hub,380,6875,1438,4.17,1.9870370909090909,68,20.9,1.0,75.4
+3,Austin Hub,220,4065,899,4.15,1.9789913899138993,44,22.1,1.1,77.0
+4,San Antonio Hub,200,3721,793,4.16,1.9642219833378123,36,21.3,1.0,77.5
+5,Fort Worth Hub,180,3255,701,4.17,1.9676282642089093,20,21.5,0.6,75.3
+6,El Paso Hub,150,2718,528,4.19,1.9904120676968358,21,19.4,0.8,75.5
